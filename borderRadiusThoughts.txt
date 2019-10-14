@@ -1,0 +1,15 @@
+**on mouse hover I want cursor to remain mouse and not vertical line -> solved with cursor: auto;
+** prevent user from highlighting button text with user-select: none;
+
+** Want to gradually increase increment/decrement speed from x to y speed
+** in order to do that, I would have to increment the ms variable passed 
+** to the setTimeout() method
+
+** There's a lot more that could be done with this: 
+** We could:
+-- Allow the user to change size, color, and even type of shape.
+-- Allow for multiple shapes to be viewed at once
+-- Make the app responsive in mobile and tablet views
+
+
+

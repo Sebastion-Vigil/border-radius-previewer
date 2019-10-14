@@ -1,0 +1,12 @@
+.square-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 670px;
+    height: 500px;
+}
+
+.Square {
+    border: 2.5px solid rgb(102, 13, 13);
+    border-style: ridge;
+}
