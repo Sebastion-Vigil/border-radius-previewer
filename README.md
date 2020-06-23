@@ -1,7 +1,7 @@
 # border-radius-previewer
 * note -> must view in browser--not responsive yet
 
-![App-Image](https://github.com/SeanValdivia/border-radius-previewer/blob/master/src/images/border-radius-previewer.png)
+![App-Image](https://github.com/Sebastion-Vigil/border-radius-previewer/blob/master/src/images/border-radius-previewer.png)
 
 This app allows the user to visually adjust up to all eight fields of the CSS border-radius property, allowing for unique shapes. 
 
